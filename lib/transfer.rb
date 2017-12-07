@@ -15,6 +15,7 @@ class Transfer
     else
       false
     end
+  end
 
   # your code here
 end
