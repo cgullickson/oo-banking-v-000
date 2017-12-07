@@ -17,5 +17,10 @@ class Transfer
     end
   end
 
+  def execute_transaction
+    if @sender.balance < amount
+  end
+      
+
   # your code here
 end
