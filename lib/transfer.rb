@@ -33,7 +33,5 @@ class Transfer
   def reverse_transfer
 
   end
-
-
   # your code here
 end
